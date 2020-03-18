@@ -3,7 +3,7 @@ const __conf = String.raw`
 
 [eval_remote]
 // custom remote...
-
+https://github.com/sky586hf/yichahucha/raw/master/sub_script.conf
 
 [eval_local]
 // custom local...
