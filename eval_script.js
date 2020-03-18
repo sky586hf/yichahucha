@@ -7,8 +7,6 @@ const __conf = String.raw`
 
 [eval_local]
 // custom local...
-# 京东多合一签到
-https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean url script-request-header JD_DailyBonus.js
 
 
 `
